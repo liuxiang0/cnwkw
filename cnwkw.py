@@ -213,3 +213,4 @@ if __name__ == '__main__':
 
     else:
         print("使用说明 - Python cnwkw.py resourceId_From [resourceId_To, process]")
+ 

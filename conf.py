@@ -8,5 +8,3 @@ L_dir = r'F:\\cnwkw-cn\\LD\\'
 S_dir = r'F:\\cnwkw-cn\\SD\\'
 H_dir = r'F:\\cnwkw-cn\\HD\\'
 M_dir = r'F:\\cnwkw-cn\\MP4\\'
-
-
